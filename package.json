@@ -1,0 +1,10 @@
+{
+  "name": "ma-uikit",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "package/*",
+      "playground/*"
+    ]
+  }
+}
