@@ -1,4 +1,4 @@
-#Testing Vite as a build tool for the UI kit.
+# Testing Vite as a build tool for the UI kit.
 ____________
 ## build UI kit
 inside `packages/uikit`:
